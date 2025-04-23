@@ -1,0 +1,11 @@
+[
+    {
+      "correo": "usuario1@ejemplo.com",
+      "contrasena": "123456"
+    },
+    {
+      "correo": "admin@uam.mx",
+      "contrasena": "admin123"
+    }
+  ]
+  
